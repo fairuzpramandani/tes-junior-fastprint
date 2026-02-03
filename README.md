@@ -3,12 +3,11 @@
 Proyek ini adalah aplikasi CRUD sederhana untuk manajemen produk menggunakan Django dan MySQL.
 
 ## Video Demonstrasi
-Link Video (Face Cam + Penjelasan): [Link Google Drive Kamu Di Sini]
+Link Video Face Cam + Penjelasan: https://drive.google.com/file/d/10s8T36KMKGj9X-GyLHUYcxCb8yxXgLTe/view?usp=sharing
 
 ## Tech Stack
 - Framework: Django 5.2.10
 - Database: MySQL
-- Library: Pillow (Image handling), PyMySQL
 
 ## Cara Menjalankan
 1. Clone repositori ini.
